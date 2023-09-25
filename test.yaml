@@ -52,4 +52,5 @@ spec:
     served: true
     storage: true
     subresources:
-      status: {}
+      status: 
+        state: string
